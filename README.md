@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Ronald Huang
 
 <!--
 **RonaldHuangg/RonaldHuangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 👋 Hi, I'm Ronald Huang
+-->
 💼 Business & Technology Enthusiast with a Focus on Impactful Solutions
 
-I’m passionate about creating meaningful technology solutions at the crossroads of business, user experience, and software development. With experience in mobile and web applications, financial tech integrations, and data-driven insights, I thrive on building tools that empower users and streamline complex processes. My work blends technical skills with a strong understanding of business strategy, always keeping the user and the broader impact in focus.
+I’m passionate about creating meaningful technology solutions at the crossroads of business, user experience, and software development. With experience across mobile, web, and data-driven applications, I excel in developing tools that empower users, optimize workflows, and solve complex problems. My expertise extends to full-stack development, financial tech integrations, and crafting data-driven insights. I bring a well-rounded understanding of software architecture and design principles, underpinned by a solid grasp of business strategy to ensure each solution is impactful and user-focused.
